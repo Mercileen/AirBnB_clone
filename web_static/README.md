@@ -170,4 +170,4 @@ Updates an instance based on the class name, id, and kwargs passed. Update the f
 
 git shortlog -se
 | perl -spe 's/^\s+\d+\s+//'
-| sed -e '/^CommitSyncScript.*$/d' \
+
